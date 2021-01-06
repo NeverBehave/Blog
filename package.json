@@ -15,7 +15,7 @@
     "webpack": "^4.42.1"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "dayjs": "^1.8.28",
     "global": "^4.4.0",
     "markdown-it-attrs": "^3.0.2",
